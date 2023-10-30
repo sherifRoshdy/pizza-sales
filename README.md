@@ -1,6 +1,6 @@
 # pizza-sales
 the pizza-sales analysis project. The project aims to perform data analysis on pizza sales using SQL, Excel, and Power BI. The project will help the stakeholders to make successful decisions based on some key performance indicators (KPIs) and charts.
-<br>
+<br><br><br>
  ![pizza](https://github.com/sherifRoshdy/pizza-sales/assets/77529268/31dda4bf-7569-40a9-8dbb-28b2e99ce8f4)
  <br>
 
