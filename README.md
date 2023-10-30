@@ -12,6 +12,7 @@ The data is cleaned and formatted using SQL queries. The queries remove any dupl
 
 # Data analysis
 The data is analyzed using Excel and Power BI. The analysis focuses on finding answers to some business questions, such as:
+
     . What are the top 10 pizza types by sales revenue?
     . What are the monthly and yearly trends of pizza sales?
     . How does customer loyalty affect the pizza sales?
