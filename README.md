@@ -16,11 +16,13 @@ The data is analyzed using Excel and Power BI. The analysis focuses on finding a
     . What are the top 10 pizza types by sales revenue?
     . What are the monthly and yearly trends of pizza sales?
     . How does customer loyalty affect the pizza sales?
-    . What are the best and worst performing regions by pizza sales?<br>
+    . What are the best and worst performing regions by pizza sales?
     
 # Data visualization
 The results of the data analysis are presented using charts and dashboards in Power BI. The charts and dashboards show the KPIs and trends of pizza sales in an interactive and appealing way. The charts and dashboards.<br>
 
-<br><br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p>The project demonstrates the use of SQL, Excel, and Power BI for data analysis and visualization. The project provides valuable insights into pizza sales and helps the stakeholders to make informed decisions.</p>
-<br><br>
+
+------------------------------------------------------------------------------
